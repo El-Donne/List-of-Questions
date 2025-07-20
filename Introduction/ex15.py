@@ -17,6 +17,3 @@ print("Temos 3 opções para você:")
 opcoes = input('Latas de 18L - R$80.00\nGalões de 3.6L - R$25.00\nMistura')
 latas_18L = 80
 galoes_36L = 25
-
-"""if (opcoes == 'Latas de 18L' or 'latas' or 'Latas' or '1°'):
-    if ()"""
